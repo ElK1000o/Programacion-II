@@ -17,10 +17,10 @@ En las diversas carpetas encontrarás archivos .ipynb (notebook) que son parte d
 El repositorio está organizado en las siguientes carpetas:
 
 - **Clases/**: (Correspondiente a cada clase)
-	- **Clases 01 a 02/**: Contenido relacionado a la librería numpy.
-	- **Clase 03/**: Finaliza numpy y comienza pandas.
-	- **Clases 04 a 05/**: revisión de DataFrames con pandas y numpy.
-	- **Clases 06 a 09/**: Material sobre matplotlib (visualización de datos).
+	- **01-Numpy/**: Contenido relacionado a la librería numpy.
+	- **02-Pandas/**: Revisión de DataFrames con pandas y numpy.
+	- **03-Matplotlib/**: Material sobre matplotlib (visualización de datos).
+	- **04-Seaborn/**: Visualización utilizando Seaborn y Matplotlib.
 
 - **Pruebas/**: (Correspondiente a evaluaciones del curso)
-    - **Prueba 1/**: Corresponde a la primera evaluación (Clase 01 a 05).
+    - **Prueba 1/**: Corresponde a la primera evaluación (01-Numpy + 02-Pandas).
